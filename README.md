@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align = "center"> Hola 👋, soy Luis Andrés </h1>
+<h3 align = "center"> Soy biólogo, actualmente estudio Big Data y Data Scientist, con interés en nuevas tecnologías. "nunca dejes de aprender" @platzi. </h3>
 
-<!--
-**luisandresmp/luisandresmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Actualmente estoy trabajando en ** consultoría de inteligencia empresarial **
 
-Here are some ideas to get you started:
+- 🌱 Actualmente estoy aprendiendo ** Ciencia de datos y big data **
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Cómo comunicarse conmigo * *luisandresmartinezperaza@gmail.com**
+
+<h3 align = "left"> Conéctate conmigo: </h3>
+<p align = "left">
+<a href = "https://twitter.com/@luisandres_mp" target = "en blanco"> <img align = "centro" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt = "@ luisandres_mp"
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/luisandresmartinezperaza/" target="blank"> <img align = "center" src = "https: // cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg "alt =" https://www.linkedin.com/in/luisandresmartinezperaza/ "height =" 30 "width =" 40 " /> </a>
+<a href="https://instagram.com/@luisandres_mp" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/ simple-icons@3.0.1/icons/instagram.svg "alt =" @ luisandres_mp "height =" 30 "width =" 40 "/> </a>
+</p>
+
+<h3 align =" left "> Idiomas y Herramientas: </h3>
+<p align = "left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos /microsoft_azure/microsoft_azure-icon.svg "alt =" azure "width =" 40 "height =" 40 "/> </a> <a href =" https://www.adobe.com/in/products/illustrator .html "target =" _ blank "> <img src =" https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg "alt =" illustrator "width =" 40 "height =" 40 "/ > </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src = "https://cdn.worldvectorlogo.com/logos / microsoft-sql-server.svg "alt =" mssql "width =" 40 "height =" 40 "/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src =" https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg "alt =" mysql "width =" 40 "height =" 40 "/> </a> < a href = "https://www.oracle.com/" target = "_ blank"> <img src = "https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original. svg "alt =" oracle "width =" 40 "height =" 40 "/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src = "https: //devicons.github.io / devicon / devicon.git / icons / photoshop / photoshop-plain.svg "alt =" photoshop "width =" 40 "height =" 40 "/> </a> <a href =" https: // www. postgresql.org "target =" _ blank "> <img src =" https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg "alt =" postgresql "width = "40" altura = "40" /> </a> <a href="https://www.python.org" target="_blank"> <img src = "https://devicons.github.io/ devicon / devicon.git / icons / python / python-original.svg "alt =" python "width =" 40 "height =" 40 "/> </a> <a href =" https: //www.selenium. dev "target ="_blank "> <img src =" https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg "alt =" selenium "width =" 40 "height =" 40 "/ > </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src = "https://cdn.worldvectorlogo.com/logos/adobe -xd.svg "alt =" xd "width =" 40 "height =" 40 "/> </a> </p>adobe.com/products/xd.html "target =" _ blank "> <img src =" https://cdn.worldvectorlogo.com/logos/adobe-xd.svg "alt =" xd "width =" 40 "height = "40" /> </a> </p>adobe.com/products/xd.html "target =" _ blank "> <img src =" https://cdn.worldvectorlogo.com/logos/adobe-xd.svg "alt =" xd "width =" 40 "height = "40" /> </a> </p>
