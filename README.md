@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luis Andrés</h1>
-<h3 align="center">I'm a Biologist, currently studying Big Data and Data Scientist, with interest in new technologies. "never stop learning" @platzi.</h3>
+<h3 align="center">I'm a Biologist, currently studying Big Data and Data Science, with interest in new technologies. "never stop learning" @platzi.</h3>
 
-- 🔭 I’m currently working on **business intelligence consulting**
+- 🔭 I’m currently working on **Business Intelligence Consulting**
 
-- 🌱 I’m currently learning **Data science and big data**
+- 🌱 I’m currently learning **Big Data and Data Science**
 
 - 📫 How to reach me **luisandresmartinezperaza@gmail.com**
 
