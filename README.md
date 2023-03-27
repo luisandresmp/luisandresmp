@@ -8,7 +8,7 @@
   </p> 
 
 <p align="left"> 
-  <a href="[https://linkedin.com/in/https://www.linkedin.com/in/luisandresmartinezperaza/](https://www.luisandresmp.com/)" target="blank"> Website </a>
+  <a href="https://www.luisandresmp.com/" target="blank"> Website </a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/luisandresmartinezperaza/" target="blank"> Linkedin </a>
   <a href="https://instagram.com/luisandres_mp" target="blank"> Instagram </a>
 </p> 
